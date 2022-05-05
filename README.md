@@ -37,5 +37,6 @@
 ---
 
 ### :fire: Моя статистика:
+# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Volkova-fe&show_icons=true&theme=vision-friendly-dark)
 # [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Volkova-fe&theme=dark&background=000000)](https://git.io/streak-stats)
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volkova-fe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
