@@ -15,7 +15,7 @@
 ---
 
 ### :woman_technologist: Обо мне:
-- :woman_student: Учусь на Frontend в Яндекс.Практикуме <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+- :woman_student: Закончила Fullstack-Frontend в Яндекс.Практикуме <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 - :clock6: В свободное от учебы время ищу интересные проекты, которые могу реализовать.
 - :sunny: Всегда в хорошем настроении.
 - :zap: Люблю командную работу и помогать другим.
